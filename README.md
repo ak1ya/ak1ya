@@ -1,5 +1,6 @@
 ## Hi, I'm ak1ya
 
+Thanks for taking a look at my GitHub account!
 A data Engineer from Japan, based in Fukuoka.
 
 ## Stats
