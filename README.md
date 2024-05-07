@@ -1,7 +1,8 @@
 ## Hi, I'm ak1ya
 
 Thanks for taking a look at my GitHub account!
-A data Engineer from Japan, based in Fukuoka.
+I work as a data engineer on a regular basis.
+As a hobby, I create 3D models using Blender.
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
