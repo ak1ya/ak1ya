@@ -13,6 +13,9 @@ As a hobby, I create 3D models using Blender.<br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,php,laravel,html,css,js,ts,react,postgres,docker,aws,astro,blender" />
 <br>
 
+## 🏆️Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ak1ya&title=MultiLanguage,Commits,Experience,Repositories,Followers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
