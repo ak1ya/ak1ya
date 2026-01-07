@@ -13,16 +13,6 @@ As a hobby, I create 3D models using Blender.<br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,php,laravel,html,css,js,ts,react,postgres,docker,aws,astro,blender" />
 <br>
 
-## 🏆️Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ak1ya&theme=react&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1ya&theme=react" />
-</a>
 
 
